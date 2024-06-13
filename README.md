@@ -1,3 +1,2 @@
-# Convertisseur-de-devise
-# cac'est mon preier projet githubgit add .
-# modification
+# Convertisseur-de-devises
+# ca c'est mon tout premier projet github
